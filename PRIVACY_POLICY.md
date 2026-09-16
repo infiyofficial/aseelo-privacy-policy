@@ -1,6 +1,6 @@
 # Privacy Policy for Aseelo
 
-**Last updated: September 16, 2026**
+**Last updated: September 15, 2026**
 
 This Privacy Policy describes how Aseelo ("we", "us", or "our") collects, uses, and shares information when you use our mobile application **Aseelo** (the "App"). By using the App, you agree to the collection and use of information in accordance with this policy.
 
